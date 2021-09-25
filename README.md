@@ -22,3 +22,9 @@ Hi, I'm Harsh Dhiman, Full Stack Developer and Competitive Programmer.
   🏟 I'm currently pursuing Bachelors in Computer Science and Engineering at CMR INSTITUTE OF TECHNOLOGY, BANGALORE.
   <br>
 </p>
+
+<!-- https://github-readme-stats.vercel.app/api?username=harsh725&show_icons=true -->
+
+### My Current GitHub Stats:
+[![Github stats](https://github-readme-stats.vercel.app/api?username=harsh725&show_icons=true
+)](https://github.com/anuraghazra/github-readme-stats)
