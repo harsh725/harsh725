@@ -26,5 +26,5 @@ Hi, I'm Harsh Dhiman, Full Stack Developer and Competitive Programmer.
 <!-- https://github-readme-stats.vercel.app/api?username=harsh725&show_icons=true -->
 
 ### My Current GitHub Stats:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=harsh725&show_icons=true
-)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/harsh725/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh725&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harsh's github stats" /></a> | <a href="https://github.com/harsh725/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh725&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
